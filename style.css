@@ -1,0 +1,20 @@
+body{
+	background-color: gold;
+}
+
+.button{
+	width: 40px;
+	height: 30px;
+	color:blue;
+}
+
+.display input{
+	position: relative;
+	left: 2px;
+	top:2px;
+	height: 35px;
+	color: black;
+	text-align: left;
+	font-size: 21px;
+}
+
